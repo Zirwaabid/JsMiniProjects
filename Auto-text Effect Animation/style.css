@@ -5,7 +5,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #0077b6;
+    background-color: black;
     color: white;
     font-family: "Dancing Script", cursive;
 }
