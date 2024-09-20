@@ -11,9 +11,6 @@ DayNameE1.innerText = date.toLocaleDateString("en", {
     weekday: "long"
 });
 
-DayNameE1.innerText = date.toLocaleDateString("en", {
-    weekday: "long"
-});
 
 DayNumE1.innerText = date.getDate();
 YearNameE1.innerText = date.getFullYear();
